@@ -1,0 +1,7 @@
+.idea
+*.yaml
+*.html
+/requirements.txt
+/Zookeeper/task/animals.py
+/test_helper.py
+/Zookeeper/task/tests.py
